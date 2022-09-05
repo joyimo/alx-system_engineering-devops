@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Hello, World
+cat 0-hello_world | fmt | pr | 1pr
